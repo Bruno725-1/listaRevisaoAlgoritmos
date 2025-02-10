@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.exe
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.deps.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.runtimeconfig.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.AssemblyInfo.cs
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\refint\listaRevisaoAlgoritmos.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.genruntimeconfig.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\ref\listaRevisaoAlgoritmos.dll
