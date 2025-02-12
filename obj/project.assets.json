@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Faculdade\\algoritmos e estruturas de dados\\listas\\listaRevisaoAlgoritmos\\listaRevisaoAlgoritmos.csproj",
+      "projectUniqueName": "/workspaces/listaRevisaoAlgoritmos/listaRevisaoAlgoritmos.csproj",
       "projectName": "listaRevisaoAlgoritmos",
-      "projectPath": "C:\\Users\\User\\Documents\\Faculdade\\algoritmos e estruturas de dados\\listas\\listaRevisaoAlgoritmos\\listaRevisaoAlgoritmos.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Faculdade\\algoritmos e estruturas de dados\\listas\\listaRevisaoAlgoritmos\\obj\\",
+      "projectPath": "/workspaces/listaRevisaoAlgoritmos/listaRevisaoAlgoritmos.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/listaRevisaoAlgoritmos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

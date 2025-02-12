@@ -1,14 +1,29 @@
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.exe
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.deps.json
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.runtimeconfig.json
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.dll
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\bin\Debug\net8.0\listaRevisaoAlgoritmos.pdb
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.AssemblyInfoInputs.cache
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.AssemblyInfo.cs
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.dll
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\refint\listaRevisaoAlgoritmos.dll
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.pdb
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\listaRevisaoAlgoritmos.genruntimeconfig.cache
-C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\listas\listaRevisaoAlgoritmos\obj\Debug\net8.0\ref\listaRevisaoAlgoritmos.dll
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.exe
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.deps.json
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.runtimeconfig.json
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.dll
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.pdb
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.AssemblyInfoInputs.cache
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.AssemblyInfo.cs
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.csproj.CoreCompileInputs.cache
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.dll
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/refint/listaRevisaoAlgoritmos.dll
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.pdb
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.genruntimeconfig.cache
+C:/Users/User/Documents/Faculdade/algoritmos e estruturas de dados/listas/listaRevisaoAlgoritmos/obj/Debug/net8.0/ref/listaRevisaoAlgoritmos.dll
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.AssemblyInfoInputs.cache
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.AssemblyInfo.cs
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.csproj.CoreCompileInputs.cache
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.sourcelink.json
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.dll
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/refint/listaRevisaoAlgoritmos.dll
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.pdb
+/workspaces/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos
+/workspaces/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.deps.json
+/workspaces/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.runtimeconfig.json
+/workspaces/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.dll
+/workspaces/listaRevisaoAlgoritmos/bin/Debug/net8.0/listaRevisaoAlgoritmos.pdb
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/listaRevisaoAlgoritmos.genruntimeconfig.cache
+/workspaces/listaRevisaoAlgoritmos/obj/Debug/net8.0/ref/listaRevisaoAlgoritmos.dll
